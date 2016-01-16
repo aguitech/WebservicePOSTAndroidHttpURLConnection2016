@@ -4,7 +4,9 @@ Webservice Android con conexión POST con HttpURLConnection Enero 2016
 
 Si deseas hacer funcionar este ejemplo tienes que colocar el siguiente código PHP
 
+------
 <?php
+
 $response["result"] = array();
 
 if(isset($_POST["name"])){
