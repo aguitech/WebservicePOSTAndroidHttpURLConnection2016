@@ -32,5 +32,8 @@ Web / PHP / Android / iOS / HTML5 / CSS3 / JavaScript / jQuery / JSON / XML
 
 FrontEnd / BackEnd / Senior Developer
 
+![AGUITECH](http://aguitech.com/images/aguitech/Aguitech_logomini.jpg "AGUITECH")
+
 ![Black Lion Software Company](http://blacklionsoftwarecompany.com/web/images/black-logo.png "Black Lion Software Company")
+
 
