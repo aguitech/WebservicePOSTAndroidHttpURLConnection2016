@@ -1,7 +1,6 @@
 # WebservicePOSTAndroidHttpURLConnection2016
 Webservice Android con conexión POST con HttpURLConnection Enero 2016
 
-
 Si deseas hacer funcionar este ejemplo tienes que colocar el siguiente código PHP
 
 ------
@@ -32,3 +31,6 @@ Desarrollador de Software
 Web / PHP / Android / iOS / HTML5 / CSS3 / JavaScript / jQuery / JSON / XML
 
 FrontEnd / BackEnd / Senior Developer
+
+![Black Lion Software Company](http://blacklionsoftwarecompany.com/web/images/black-logo.png "Black Lion Software Company")
+
