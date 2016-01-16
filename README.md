@@ -6,33 +6,19 @@ Si deseas hacer funcionar este ejemplo tienes que colocar el siguiente código P
 
 ------
 	<?php
-
 	$response["result"] = array();
-
 	if(isset($_POST["name"])){
-
 		$name = $_POST["name"];
-		
 		$reply = array();
-		
-		$reply["reply"] = "Welcome To " . $name;
-		
+		$reply["reply"] = "Bienvenido " . $name;
 		array_push($response["result"], $reply);
-		
 		$response["success"] = 1;
-		
 		echo json_encode($response);
-	
 	}else{
-
 		$response["message"] = "Campos requeridos perdidos";
-	
 		$response["success"] = 0;
-	
 		echo json_encode($response);
-	
 	}
-	
 	?>
 
 16 Enero 2016
